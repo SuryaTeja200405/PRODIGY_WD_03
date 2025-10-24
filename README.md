@@ -1,6 +1,5 @@
 # 🎯 PRODIGY_WD_03 — Tic-Tac-Toe Web Application  
 
-![Project Banner](https://user-images.githubusercontent.com/placeholder/banner.png)
 
 ## 🧩 Introduction  
 This project is a **Tic-Tac-Toe Web Application** built using **HTML5**, **CSS3**, and **JavaScript (ES6)**.  
@@ -65,21 +64,22 @@ The game declares a winner or a draw automatically.
 
 Click the Restart Game button to play again.
 
-🖼️ Screenshots
-Gameplay	Result Screen
+## 🖼️ Screenshots
+<img width="1918" height="870" alt="image" src="https://github.com/user-attachments/assets/be8f210d-3652-428f-8263-d33124faad9b" />
 
-🔍 Future Enhancements
+
+## 🔍 Future Enhancements
 ✨ Add AI opponent using the Minimax algorithm (Play vs Computer mode)
 ✨ Add Dark / Light mode toggle
 ✨ Add sound effects and animations for moves
 ✨ Add move history / undo functionality
 ✨ Save game progress with localStorage persistence
 
-🌐 Live Demo
+##🌐 Live Demo
 🔗 Click here to play Tic-Tac-Toe
-()
+(https://suryateja200405.github.io/PRODIGY_WD_03/)
 
-🧑‍💻 Author
+##🧑‍💻 Author
 Surya Teja Yellaboyina
 🎓 Electronics & Communication Engineer | 💻 Front-End Developer | 🚀 Innovation Enthusiast
 🌟 Passionate about building intuitive, minimal and future-ready digital experiences.
